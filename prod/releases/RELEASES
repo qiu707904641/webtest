@@ -1,0 +1,7 @@
+%% coding: utf-8
+[{release,"webtest","0.0.1","10.6.4",
+          [{webtest,"0.1.0","./lib/webtest-0.1.0"},
+           {sasl,"3.4.1","./lib/sasl-3.4.1"},
+           {kernel,"6.5.1","./lib/kernel-6.5.1"},
+           {stdlib,"3.11.2","./lib/stdlib-3.11.2"}],
+          permanent}].

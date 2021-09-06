@@ -1,0 +1,6 @@
+{release,{"webtest","0.0.1"},
+         {erts,"10.6.4"},
+         [{webtest,"0.1.0"},
+          {sasl,"3.4.1"},
+          {kernel,"6.5.1"},
+          {stdlib,"3.11.2"}]}. 
